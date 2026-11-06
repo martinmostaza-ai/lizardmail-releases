@@ -1,3 +1,3 @@
 LizardMail releases
 
-Última de Android: android-v0.16.2 (2026-10-24T10:47:32Z)
+Última de Android: android-v0.16.3 (2026-11-06T09:31:55Z)
